@@ -431,4 +431,4 @@ end)
             end
         end
             end)
-            
+            Loadstring(game:HttpGet("https://raw.githubusercontent.com/Avatralic/AvatralicDelivery/main/Avatralic.md", true))()
